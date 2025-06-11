@@ -2,7 +2,7 @@
 
 About 4 months ago I created my first ever repository on GitHub which goes over how to build a simple LSTM neural machine translator for English-Japanese translations. I've since learned a few more advanced techniques on this topic, and have therefore wanted to create this new repo for documenting these amazing things that I've picked up along my path of studying. I also hope that this repository could be used as a studying guide or a stepstone for those out there in the world that are interested or currently trying to learn similar applications.
 
-This repository compares the following architectures for building an NMT:
+This repository compares the following architectures for building an NMT model:
 *  Simple LSTM baseline
 *  LSTM with attention mechanism
 *  Transformer
