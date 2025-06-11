@@ -8,7 +8,7 @@ This repository compares the following architectures for building an NMT model:
 *  Transformer
 
 It is generally recommended to enjoy the repo in the following manner:
-*  First, open the notebook named "1_Data_Prep" on Google Colab, and follow the steps inside the notebook to prepare the data needed for this project.
+*  First, open the notebook named "1_Data_Prep" on Google Colab, and follow the steps inside to prepare the data needed for this project.
 *  Second, with the data ready on Google Drive, run "2_NMT_with_simple_LSTM" to create a LSTM neural machine translator. (This is similar to my first repo but optimized)
 *  Continue with "3_LSTM_with_Attention" to add attention on top and "4_Transformer_NMT" to build a translator using the Transformer architecture.
 *  In each notebook, pay attention to how the model is structured. Learn about the architectural differences and compare their performance.
